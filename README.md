@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/Gowreesh10/Gowreesh10/blob/main/WhatsApp%20Image%202022-09-09%20at%202.51.07%20AM.jpeg)](https://Gowreesh10.io)
+&emsp;&emsp;&emsp;[![MasterHead](https://github.com/Gowreesh10/Gowreesh10/blob/main/b1.jpeg)](https://Gowreesh10.io)
 <h1 align="center">Hi👋🏻, I'm GOWREESH</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 <img src="https://github.com/Gowreesh10/Gowreesh10/blob/main/coding-typing.gif" align="right" width="270" height="270" />
