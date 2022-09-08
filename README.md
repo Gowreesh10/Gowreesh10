@@ -43,5 +43,5 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gowreesh10&" alt="gowreesh10" /></p><br>
 
-<br><p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowreesh10&show_icons=true&locale=en&layout=compact" alt="gowreesh10" /></p>
+<br><br><br><p><br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gowreesh10&show_icons=true&locale=en&layout=compact" alt="gowreesh10" /></p>
 
