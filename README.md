@@ -2,7 +2,7 @@
 [![MasterHead](https://github.com/Gowreesh10/Gowreesh10/blob/main/WhatsApp%20Image%202022-09-09%20at%202.51.07%20AM.jpeg)](https://Gowreesh10.io)
 <h1 align="center">Hi👋🏻, I'm GOWREESH</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
-<img src="https://imgs.search.brave.com/zbAcO38n1C7wpUrXOjPTZzyoAunpLpyeMOnktkIrT6o/rs:fit:800:600:1/g:ce/aHR0cHM6Ly93d3cu/Y29sb3VyYm94LmNv/bS9wcmV2aWV3LzMw/NzQ2NDcxLXByb2dy/YW1taW5nLWFuZC1j/b2RpbmcuanBn" align="right" width="280" height="280" />
+<img src="https://github.com/Gowreesh10/Gowreesh10/blob/main/coding-typing.gif" align="right" width="270" height="270" />
 
 
 
