@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowreesh10&label=Profile%20views&color=0e75b6&style=flat" alt="gowreesh10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gowreesh_a_m" target="blank"><img src="https://img.shields.io/twitter/follow/gowreesh_a_m?logo=twitter&style=for-the-badge" alt="gowreesh_a_m" /></a> </p>
 
 - 🖥️ I'm a student pursuing **Computer Science and Engineering**
 
