@@ -11,7 +11,7 @@
 
 - 🖥️ I'm a student pursuing **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **Django,DSA**
+- 🌱 I’m currently learning **DSA,Nodejs,Expressjs,Thunderclient,MongoDB**
 
 - 💬 Ask me about **Anime(Death note,Demon Slayer,Onepiece,Classroom of the elite,Your Name,etc)**
 
